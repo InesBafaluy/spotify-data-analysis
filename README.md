@@ -1,6 +1,3 @@
-**Spotify data analysis**: exploratory analysis and visualization of a Spotify dataset. The report and notebooks are in French.
-
----
 
 # Projet Spotify - Analyse de données
 
