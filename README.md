@@ -1,3 +1,7 @@
+**Spotify data analysis**: exploratory analysis and visualization of a Spotify dataset. The report and notebooks are in French.
+
+---
+
 # Projet Spotify - Analyse de données
 
 Ce dépôt contient le travail réalisé dans le cadre d’un projet d’analyse de données autour d’un dataset Spotify.
